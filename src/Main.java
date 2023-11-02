@@ -5,6 +5,6 @@ public class Main {
         System.out.println(order);
 
         System.out.println("Hello world?");
-        System.out.println("try change dev");
+        System.out.println("Try to change dev");
     }
 }
